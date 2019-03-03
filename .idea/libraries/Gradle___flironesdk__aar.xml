@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :flironesdk:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/flironesdk.aar/ae803c9fb0ca717333e71cce3e885b13/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/flironesdk.aar/ae803c9fb0ca717333e71cce3e885b13/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
